@@ -1,0 +1,5 @@
+name: docker-image-resource
+url: https://github.com/concourse/docker-image-resource
+description: |
+  a resource for docker images
+
