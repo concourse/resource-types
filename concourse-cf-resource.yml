@@ -1,0 +1,5 @@
+name: cf-resource
+repo: https://github.com/concourse/cf-resource
+container_image: concourse/cf-resource
+description: |
+  Concourse resource for interacting with Cloud Foundry
