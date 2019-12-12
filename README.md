@@ -18,7 +18,7 @@ Resource types can be submitted directly to this repo through a fork-and-PR work
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the [Concourse Resource Types repo](http://github.com/concourse/resource-types) into your Github account.
 1. Add a yaml file for your resource type directly in the same folder as this README.md.
 
-    Follow the schema: `[OWNER_NAME]-[RESOURCE_TYPE_NAME].yml` for file name (e.g. concourse-git-resourse.yml)
+    Follow the schema: `[OWNER_NAME]-[RESOURCE_TYPE_NAME].yml` for file name (e.g. concourse-git-resource.yml)
     ```
     ...
     /README.md
