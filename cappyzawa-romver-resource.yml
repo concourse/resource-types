@@ -1,4 +1,4 @@
-name: romver-resource
+name: romver
 repo: https://github.com/cappyzawa/romver-resource
 container_image: cappyzawa/romver-resource
 description: |
