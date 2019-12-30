@@ -1,0 +1,11 @@
+name: romver
+repo: https://github.com/cappyzawa/romver-resource
+container_image: cappyzawa/romver-resource
+description: |
+  A resource for managing a version number. Persists the version number in one of several backing stores.
+
+  This resource can manage major version(X) only.
+
+  When version is bumped by this resouce, new version is X+1.
+
+  There is no concept of major, minor and patch like semanic versioning.
