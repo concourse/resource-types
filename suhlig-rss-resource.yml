@@ -1,4 +1,4 @@
-name: rss-resource
+name: rss
 repo: https://github.com/suhlig/concourse-rss-resource
 container_image: suhlig/concourse-rss-resource
 description: |
