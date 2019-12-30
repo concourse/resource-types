@@ -1,4 +1,4 @@
-name: blackduck-resource
+name: blackduck
 repo: https://github.com/elgohr/concourse-blackduck
 container_image: lgohr/blackduck-resource
 description: |

@@ -1,4 +1,4 @@
-name: sonarqube-notifier-resource
+name: sonarqube-notifier
 repo: https://github.com/elgohr/concourse-sonarqube-notifier
 container_image: lgohr/sonarqube
 description: |
