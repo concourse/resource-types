@@ -1,4 +1,4 @@
-name: irccat-resource
+name: irccat
 url: https://github.com/haiku/irccat-resource
 container_image: haiku/irccat-resource
 description: |
