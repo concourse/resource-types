@@ -1,4 +1,4 @@
-name: bosh-io-stemcell-resource
+name: bosh-io-stemcell
 repo: https://github.com/concourse/bosh-io-stemcell-resource
 container_image: concourse/bosh-io-stemcell-resource
 description: |

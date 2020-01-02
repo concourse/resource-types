@@ -1,4 +1,4 @@
-name: concourse-pipeline-resource
+name: concourse-pipeline
 repo: https://github.com/concourse/concourse-pipeline-resource
 container_image: concourse-pipeline-resource
 description: |

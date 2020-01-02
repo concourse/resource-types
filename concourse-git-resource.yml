@@ -1,4 +1,4 @@
-name: git-resource
+name: git
 repo: https://github.com/concourse/git-resource
 container_image: concourse/git-resource
 description: |

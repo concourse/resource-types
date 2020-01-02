@@ -1,4 +1,4 @@
-name: cf-resource
+name: cf
 repo: https://github.com/concourse/cf-resource
 container_image: concourse/cf-resource
 description: |

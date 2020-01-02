@@ -1,4 +1,4 @@
-name: mock-resource
+name: mock
 repo: https://github.com/concourse/mock-resource
 container_image: concourse/mock-resource
 description: |

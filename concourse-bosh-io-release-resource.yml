@@ -1,4 +1,4 @@
-name: bosh-io-release-resource
+name: bosh-io-release
 repo: https://github.com/concourse/bosh-io-release-resource
 container_image: concourse/bosh-io-release-resource
 description: |

@@ -1,4 +1,4 @@
-name: pool-resource
+name: pool
 repo: https://github.com/concourse/pool-resource
 container_image: concourse/pool-resource
 description: |

@@ -1,4 +1,4 @@
-name: registry-image-resource
+name: registry-image
 repo: https://github.com/concourse/registry-image-resource
 container_image: concourse/registry-image-resource
 description: |

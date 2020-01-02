@@ -1,4 +1,4 @@
-name: hg-resource
+name: hg
 repo: https://github.com/concourse/hg-resource
 container_image: concourse/hg-resource
 description: |

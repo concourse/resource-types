@@ -1,4 +1,4 @@
-name: time-resource
+name: time
 repo: https://github.com/concourse/time-resource
 container_image: concourse/time-resource
 description: |

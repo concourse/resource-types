@@ -1,4 +1,4 @@
-name: s3-resource
+name: s3
 repo: https://github.com/concourse/s3-resource
 container_image: concourse/s3-resource
 description: |
