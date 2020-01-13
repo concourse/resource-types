@@ -1,4 +1,4 @@
-name: grafana-annotation-resource
+name: grafana-annotation
 repo: https://github.com/alphagov/paas-grafana-annotation-resource
 container_image: gdsre/grafana-annotation-resource
 description: |
