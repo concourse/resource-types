@@ -1,0 +1,5 @@
+name: artifactory
+repo: https://github.com/emerald-squad/artifactory-resource
+container_image: emeraldsquad/artifactory-resource
+description: |
+  a lightweight resource that lets you integrate your pipeline jobs with Artifactory repositories

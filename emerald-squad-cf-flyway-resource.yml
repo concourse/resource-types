@@ -1,0 +1,5 @@
+name: cf-flyway
+repo: https://github.com/emerald-squad/cf-flyway-resource
+container_image: emeraldsquad/cf-flyway-resource
+description: |
+A concourse-ci resource with cf-cli and flyway-cli installed. The resource out script allows Flyway migration automation.
