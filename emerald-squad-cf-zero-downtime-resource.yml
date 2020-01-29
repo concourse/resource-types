@@ -1,0 +1,5 @@
+name: cf-zero-downtime
+repo: https://github.com/emerald-squad/cf-zero-downtime-resource
+container_image: emeraldsquad/cf-zero-downtime-resource
+description: |
+  a resource for zero-downtime deploys on Cloud Foundry
