@@ -1,4 +1,4 @@
-name: git
+name: maven
 repo: https://github.com/nulldriver/maven-resource
 container_image: nulldriver/maven-resource
 description: |

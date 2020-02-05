@@ -1,4 +1,4 @@
-name: git
+name: cf-cli
 repo: https://github.com/nulldriver/cf-cli-resource
 container_image: nulldriver/cf-cli-resource
 description: |
