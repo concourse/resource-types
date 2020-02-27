@@ -1,4 +1,4 @@
-name: git
+name: cron
 repo: https://github.com/pivotal-cf-experimental/cron-resource
 container_image: cftoolsmiths/cron-resource
 description: |
