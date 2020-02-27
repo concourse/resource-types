@@ -1,0 +1,5 @@
+name: cron
+repo: https://github.com/pivotal-cf-experimental/cron-resource
+container_image: cftoolsmiths/cron-resource
+description: |
+  Implements a resource that reports new versions when the current time matches the crontab expression
