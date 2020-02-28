@@ -1,0 +1,5 @@
+name: appcenter-resource
+repo: https://github.com/tomoyukim/concourse-appcenter-resource
+container_image: tomoyukim/concourse-appcenter-resource
+description: |
+  Concourse resource for distributing a build artifact to Microsoft App Center.
