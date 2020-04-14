@@ -1,4 +1,4 @@
-name: gate-resource
+name: gate
 repo: https://github.com/meshcloud/gate-resource
 container_image: meshcloud/gate-resource
 description: |
