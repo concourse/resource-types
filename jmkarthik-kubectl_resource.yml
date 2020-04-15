@@ -1,4 +1,4 @@
-name: kubectl-resource
+name: kubectl
 repo: https://github.com/jmkarthik/concourse-kubectl-resource
 container_image: jmkarthik/concourse-kubectl-resource
 description: |
