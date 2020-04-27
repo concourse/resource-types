@@ -1,0 +1,5 @@
+name: sonarqube
+repo: https://github.com/cathive/concourse-sonarqube-resource
+container_image: cathive/concourse-sonarqube-resource
+description: |
+  Performs SonarQube analyses and tracks the state of SonarQube quality gates.
