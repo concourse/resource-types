@@ -1,4 +1,4 @@
-name: bugsnag-build-version
+name: bugsnag-build
 repo: https://github.com/dcsg/bugsnag-build-resource
 container_image: dcsg/bugsnag-build-resource
 description: |
