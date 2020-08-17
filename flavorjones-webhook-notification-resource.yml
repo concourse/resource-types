@@ -1,0 +1,5 @@
+name: webhook-notification
+repo: https://github.com/flavorjones/webhook-notification-resource
+container_image: flavorjones/webhook-notification-resource
+description: |
+  Sends notification messages to webhooks-drive services like Gitter. Easily extensible to other services.
