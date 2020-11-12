@@ -1,0 +1,5 @@
+name: s3-helm-chart
+repo: https://github.com/ArrivalDistributionPlatform/concourse-s3-helm-chart-resource
+container_image: arrivalmobility/concourse-s3-helm-chart-resource
+description: |
+  Push or pull charts from S3-based helm repositories.
