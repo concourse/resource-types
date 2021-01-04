@@ -9,7 +9,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Concourse Resource Types
-Welcome to the Concourse [resource types](https://concourse-ci.org/resource-types.html) repository! Here you can publish your resource type. Upon approval, it will be live in the Concourse docs site under the ‘Resource Types’ section (coming soon).
+Welcome to the Concourse [resource types](https://concourse-ci.org/resource-types.html) repository! Here you can publish your resource type. Upon approval, it will be live in the Concourse docs site under the ‘Resource Types’ [section](https://resource-types.concourse-ci.org/).
 
 On this page, you’ll find details on how to contribute a resource type to the repository. You can find instructions on building a resource type [here](https://concourse-ci.org/implementing-resource-types.html). 
 
