@@ -2,5 +2,5 @@ name: artifacthub
 repo: https://github.com/PG2000/artifacthub-resource
 container_image: pg2000/artifacthub-resource
 description: |
-  Tracks and get new versions of Helm Charts which are registered at https://artifacthub.io/
+  Tracks and gets new versions of Helm Charts which are registered at https://artifacthub.io/
  
