@@ -1,5 +1,5 @@
 name: pulumi
 repo: https://github.com/ringods/pulumi-resource
-container_image: ringods/pulumi-resource
+container_image: ghcr.io/ringods/pulumi-resource
 description: |
     manages infrastructure via Pulumi
