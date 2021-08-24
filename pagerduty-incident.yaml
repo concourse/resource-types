@@ -1,0 +1,5 @@
+name: pagerduty-incident
+repo: https://github.com/coralogix/eng-concourse-resource-pagerduty-incident
+container_image: ghcr.io/coralogix/eng-concourse-resource-pagerduty-incident
+description: |
+  Triggers PagerDuty incidents (for example, on pipeline failure)
