@@ -1,5 +1,0 @@
-name: keyvalue
-repo: https://github.com/moredhel/keyval-resource
-container_image: moredhel/keyval-resource
-description: |
-  An alternate implementation the Key Value resource, but conforms to the Kubernetes configmap pattern
