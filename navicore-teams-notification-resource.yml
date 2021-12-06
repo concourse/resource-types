@@ -1,4 +1,4 @@
-name: git
+name: teams-notification
 repo: https://github.com/navicore/teams-notification-resource
 container_image: navicore/teams-notification-resource
 description: |
