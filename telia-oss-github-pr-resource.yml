@@ -1,5 +1,0 @@
-name: github-pr
-repo: https://github.com/telia-oss/github-pr-resource
-container_image: teliaoss/github-pr-resource
-description: |
-  Github pull request resource for Concourse
