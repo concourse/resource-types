@@ -1,5 +1,0 @@
-name: hashicorp-release
-repo: https://github.com/Qarik-Group/hashicorp-release-resource
-container_image: starkandwayne/hashicorp-release-resource
-description: |
-  Concourse resource to track and fetch Hashicorp projects
